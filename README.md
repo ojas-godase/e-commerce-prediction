@@ -1,2 +1,1 @@
-# e-commerce_linear_regression
-# e-commerce-prediction
+This program employs linear regression algorithms to analyze an e-commerce dataset, utilizing various features and parameters to predict sales.
